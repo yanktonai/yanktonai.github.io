@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1e7dd0ac","path":"/es/demo/examples.html","title":"Ejemplos de bots","lang":"es-ES","frontmatter":{"prev":"./"},"excerpt":"","headers":[],"git":{"updatedTime":1652551127000,"contributors":[{"name":"KnorpelSenf","email":"shtrog@gmail.com","commits":1}]},"filePathRelative":"es/demo/examples.md"}');export{e as data};

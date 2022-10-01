@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-285e7ff8","path":"/es/demo/","title":"Demostraci\xF3n del navegador en vivo","lang":"es-ES","frontmatter":{"next":"./examples.md"},"excerpt":"","headers":[],"git":{"updatedTime":1652551127000,"contributors":[{"name":"KnorpelSenf","email":"shtrog@gmail.com","commits":1}]},"filePathRelative":"es/demo/README.md"}');export{e as data};

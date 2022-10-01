@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-1e354dd2","path":"/id/advanced/","title":"Gambaran Umum Topik Tingkat Lanjut","lang":"id","frontmatter":{"next":"./middleware.md"},"excerpt":"","headers":[],"git":{"updatedTime":1662367332000,"contributors":[{"name":"Ciki Momogi","email":"git.fytyt@aleeas.com","commits":1}]},"filePathRelative":"id/advanced/README.md"}');export{a as data};

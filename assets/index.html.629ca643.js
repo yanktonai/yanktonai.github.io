@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-71d7fab1","path":"/id/demo/","title":"Demo di Browser Secara Langsung","lang":"id","frontmatter":{"next":"./examples.md"},"excerpt":"","headers":[],"git":{"updatedTime":1662367332000,"contributors":[{"name":"Ciki Momogi","email":"git.fytyt@aleeas.com","commits":1}]},"filePathRelative":"id/demo/README.md"}');export{e as data};

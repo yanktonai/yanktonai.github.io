@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-15a400ec","path":"/es/hosting/gcf.html","title":"Alojamiento: Google Cloud Functions","lang":"es-ES","frontmatter":{},"excerpt":"","headers":[],"git":{"updatedTime":1653465358000,"contributors":[{"name":"KnorpelSenf","email":"shtrog@gmail.com","commits":2}]},"filePathRelative":"es/hosting/gcf.md"}');export{e as data};
