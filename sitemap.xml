@@ -2,914 +2,914 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
         <loc>https://grammy.dev/index.html</loc>
-        <lastmod>2022-10-01T19:02:17.260Z</lastmod>
+        <lastmod>2022-10-01T19:34:31.231Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/deployment.html</loc>
-        <lastmod>2022-10-01T19:02:19.688Z</lastmod>
+        <lastmod>2022-10-01T19:34:31.838Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/flood.html</loc>
-        <lastmod>2022-10-01T19:02:20.085Z</lastmod>
+        <lastmod>2022-10-01T19:34:32.097Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/index.html</loc>
-        <lastmod>2022-10-01T19:02:18.254Z</lastmod>
+        <lastmod>2022-10-01T19:34:31.587Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:20.258Z</lastmod>
+        <lastmod>2022-10-01T19:34:32.415Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/proxy.html</loc>
-        <lastmod>2022-10-01T19:02:20.395Z</lastmod>
+        <lastmod>2022-10-01T19:34:32.677Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/reliability.html</loc>
-        <lastmod>2022-10-01T19:02:20.553Z</lastmod>
+        <lastmod>2022-10-01T19:34:33.016Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/scaling.html</loc>
-        <lastmod>2022-10-01T19:02:20.821Z</lastmod>
+        <lastmod>2022-10-01T19:34:33.330Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/structuring.html</loc>
-        <lastmod>2022-10-01T19:02:20.957Z</lastmod>
+        <lastmod>2022-10-01T19:34:33.618Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/advanced/transformers.html</loc>
-        <lastmod>2022-10-01T19:02:21.055Z</lastmod>
+        <lastmod>2022-10-01T19:34:33.902Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/demo/examples.html</loc>
-        <lastmod>2022-10-01T19:02:21.262Z</lastmod>
+        <lastmod>2022-10-01T19:34:35.203Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/demo/index.html</loc>
-        <lastmod>2022-10-01T19:02:21.153Z</lastmod>
+        <lastmod>2022-10-01T19:34:34.658Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/index.html</loc>
-        <lastmod>2022-10-01T19:02:21.360Z</lastmod>
+        <lastmod>2022-10-01T19:34:34.437Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/api.html</loc>
-        <lastmod>2022-10-01T19:02:22.408Z</lastmod>
+        <lastmod>2022-10-01T19:34:38.317Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/basics.html</loc>
-        <lastmod>2022-10-01T19:02:22.804Z</lastmod>
+        <lastmod>2022-10-01T19:34:38.653Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/commands.html</loc>
-        <lastmod>2022-10-01T19:02:23.008Z</lastmod>
+        <lastmod>2022-10-01T19:34:38.886Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/context.html</loc>
-        <lastmod>2022-10-01T19:02:23.205Z</lastmod>
+        <lastmod>2022-10-01T19:34:39.110Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/deployment-types.html</loc>
-        <lastmod>2022-10-01T19:02:23.300Z</lastmod>
+        <lastmod>2022-10-01T19:34:39.277Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/errors.html</loc>
-        <lastmod>2022-10-01T19:02:23.400Z</lastmod>
+        <lastmod>2022-10-01T19:34:39.472Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/files.html</loc>
-        <lastmod>2022-10-01T19:02:23.508Z</lastmod>
+        <lastmod>2022-10-01T19:34:39.801Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/filter-queries.html</loc>
-        <lastmod>2022-10-01T19:02:23.614Z</lastmod>
+        <lastmod>2022-10-01T19:34:39.994Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/games.html</loc>
-        <lastmod>2022-10-01T19:02:23.703Z</lastmod>
+        <lastmod>2022-10-01T19:34:40.158Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/getting-started.html</loc>
-        <lastmod>2022-10-01T19:02:23.799Z</lastmod>
+        <lastmod>2022-10-01T19:34:40.325Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/index.html</loc>
-        <lastmod>2022-10-01T19:02:21.477Z</lastmod>
+        <lastmod>2022-10-01T19:34:37.779Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/inline-queries.html</loc>
-        <lastmod>2022-10-01T19:02:23.898Z</lastmod>
+        <lastmod>2022-10-01T19:34:40.485Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/introduction.html</loc>
-        <lastmod>2022-10-01T19:02:24.071Z</lastmod>
+        <lastmod>2022-10-01T19:34:40.639Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/guide/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:24.875Z</lastmod>
+        <lastmod>2022-10-01T19:34:41.155Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:25.296Z</lastmod>
+        <lastmod>2022-10-01T19:34:42.143Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/deno-deploy.html</loc>
-        <lastmod>2022-10-01T19:02:25.600Z</lastmod>
+        <lastmod>2022-10-01T19:34:42.559Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/gcf.html</loc>
-        <lastmod>2022-10-01T19:02:25.699Z</lastmod>
+        <lastmod>2022-10-01T19:34:42.712Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/heroku.html</loc>
-        <lastmod>2022-10-01T19:02:25.826Z</lastmod>
+        <lastmod>2022-10-01T19:34:42.909Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/supabase.html</loc>
-        <lastmod>2022-10-01T19:02:25.927Z</lastmod>
+        <lastmod>2022-10-01T19:34:43.069Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/hosting/vps.html</loc>
-        <lastmod>2022-10-01T19:02:26.019Z</lastmod>
+        <lastmod>2022-10-01T19:34:43.263Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/index.html</loc>
-        <lastmod>2022-10-01T19:02:26.102Z</lastmod>
+        <lastmod>2022-10-01T19:34:43.396Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/auto-retry.html</loc>
-        <lastmod>2022-10-01T19:02:26.291Z</lastmod>
+        <lastmod>2022-10-01T19:34:43.902Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/autoquote.html</loc>
-        <lastmod>2022-10-01T19:02:26.387Z</lastmod>
+        <lastmod>2022-10-01T19:34:44.196Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/command-filter.html</loc>
-        <lastmod>2022-10-01T19:02:26.462Z</lastmod>
+        <lastmod>2022-10-01T19:34:44.446Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/console-time.html</loc>
-        <lastmod>2022-10-01T19:02:26.964Z</lastmod>
+        <lastmod>2022-10-01T19:34:44.704Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/conversations.html</loc>
-        <lastmod>2022-10-01T19:02:27.900Z</lastmod>
+        <lastmod>2022-10-01T19:34:45.564Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/emoji.html</loc>
-        <lastmod>2022-10-01T19:02:28.106Z</lastmod>
+        <lastmod>2022-10-01T19:34:46.277Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/files.html</loc>
-        <lastmod>2022-10-01T19:02:28.252Z</lastmod>
+        <lastmod>2022-10-01T19:34:48.083Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/fluent.html</loc>
-        <lastmod>2022-10-01T19:02:28.342Z</lastmod>
+        <lastmod>2022-10-01T19:34:48.920Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/guide.html</loc>
-        <lastmod>2022-10-01T19:02:28.444Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.250Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/hydrate.html</loc>
-        <lastmod>2022-10-01T19:02:28.549Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.390Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/i18n.html</loc>
-        <lastmod>2022-10-01T19:02:28.687Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.554Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/index.html</loc>
-        <lastmod>2022-10-01T19:02:26.198Z</lastmod>
+        <lastmod>2022-10-01T19:34:43.636Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/keyboard.html</loc>
-        <lastmod>2022-10-01T19:02:28.780Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.698Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/menu.html</loc>
-        <lastmod>2022-10-01T19:02:28.897Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.860Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/middlewares.html</loc>
-        <lastmod>2022-10-01T19:02:29.791Z</lastmod>
+        <lastmod>2022-10-01T19:34:49.981Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/parse-mode.html</loc>
-        <lastmod>2022-10-01T19:02:30.193Z</lastmod>
+        <lastmod>2022-10-01T19:34:50.096Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/ratelimiter.html</loc>
-        <lastmod>2022-10-01T19:02:30.433Z</lastmod>
+        <lastmod>2022-10-01T19:34:50.216Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/router.html</loc>
-        <lastmod>2022-10-01T19:02:30.600Z</lastmod>
+        <lastmod>2022-10-01T19:34:50.735Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/runner.html</loc>
-        <lastmod>2022-10-01T19:02:30.703Z</lastmod>
+        <lastmod>2022-10-01T19:34:52.060Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/session.html</loc>
-        <lastmod>2022-10-01T19:02:30.841Z</lastmod>
+        <lastmod>2022-10-01T19:34:52.568Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/stateless-question.html</loc>
-        <lastmod>2022-10-01T19:02:30.951Z</lastmod>
+        <lastmod>2022-10-01T19:34:52.783Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/plugins/transformer-throttler.html</loc>
-        <lastmod>2022-10-01T19:02:31.042Z</lastmod>
+        <lastmod>2022-10-01T19:34:52.965Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/resources/about.html</loc>
-        <lastmod>2022-10-01T19:02:31.135Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.096Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/resources/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:31.215Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.226Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/resources/faq.html</loc>
-        <lastmod>2022-10-01T19:02:31.737Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.464Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/index.html</loc>
-        <lastmod>2022-10-01T19:02:32.501Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.668Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/deployment.html</loc>
-        <lastmod>2022-10-01T19:02:32.752Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.927Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/flood.html</loc>
-        <lastmod>2022-10-01T19:02:32.868Z</lastmod>
+        <lastmod>2022-10-01T19:34:54.077Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/index.html</loc>
-        <lastmod>2022-10-01T19:02:32.627Z</lastmod>
+        <lastmod>2022-10-01T19:34:53.760Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:32.970Z</lastmod>
+        <lastmod>2022-10-01T19:34:55.461Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/proxy.html</loc>
-        <lastmod>2022-10-01T19:02:33.041Z</lastmod>
+        <lastmod>2022-10-01T19:34:58.541Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/reliability.html</loc>
-        <lastmod>2022-10-01T19:02:33.128Z</lastmod>
+        <lastmod>2022-10-01T19:34:59.249Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/scaling.html</loc>
-        <lastmod>2022-10-01T19:02:33.192Z</lastmod>
+        <lastmod>2022-10-01T19:34:59.434Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/structuring.html</loc>
-        <lastmod>2022-10-01T19:02:33.254Z</lastmod>
+        <lastmod>2022-10-01T19:34:59.825Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/advanced/transformers.html</loc>
-        <lastmod>2022-10-01T19:02:33.324Z</lastmod>
+        <lastmod>2022-10-01T19:34:59.956Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/demo/examples.html</loc>
-        <lastmod>2022-10-01T19:02:34.130Z</lastmod>
+        <lastmod>2022-10-01T19:35:01.024Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/demo/index.html</loc>
-        <lastmod>2022-10-01T19:02:33.392Z</lastmod>
+        <lastmod>2022-10-01T19:35:00.812Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/api.html</loc>
-        <lastmod>2022-10-01T19:02:34.762Z</lastmod>
+        <lastmod>2022-10-01T19:35:01.347Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/basics.html</loc>
-        <lastmod>2022-10-01T19:02:34.896Z</lastmod>
+        <lastmod>2022-10-01T19:35:01.496Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/commands.html</loc>
-        <lastmod>2022-10-01T19:02:35.019Z</lastmod>
+        <lastmod>2022-10-01T19:35:01.723Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/context.html</loc>
-        <lastmod>2022-10-01T19:02:35.104Z</lastmod>
+        <lastmod>2022-10-01T19:35:02.521Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/deployment-types.html</loc>
-        <lastmod>2022-10-01T19:02:35.181Z</lastmod>
+        <lastmod>2022-10-01T19:35:03.442Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/errors.html</loc>
-        <lastmod>2022-10-01T19:02:35.258Z</lastmod>
+        <lastmod>2022-10-01T19:35:05.127Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/files.html</loc>
-        <lastmod>2022-10-01T19:02:35.341Z</lastmod>
+        <lastmod>2022-10-01T19:35:05.691Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/filter-queries.html</loc>
-        <lastmod>2022-10-01T19:02:35.415Z</lastmod>
+        <lastmod>2022-10-01T19:35:05.957Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/games.html</loc>
-        <lastmod>2022-10-01T19:02:35.474Z</lastmod>
+        <lastmod>2022-10-01T19:35:06.614Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/getting-started.html</loc>
-        <lastmod>2022-10-01T19:02:35.956Z</lastmod>
+        <lastmod>2022-10-01T19:35:06.733Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/index.html</loc>
-        <lastmod>2022-10-01T19:02:34.631Z</lastmod>
+        <lastmod>2022-10-01T19:35:01.186Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/inline-queries.html</loc>
-        <lastmod>2022-10-01T19:02:36.678Z</lastmod>
+        <lastmod>2022-10-01T19:35:06.864Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/introduction.html</loc>
-        <lastmod>2022-10-01T19:02:36.833Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.008Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/guide/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:36.967Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.153Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:37.105Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.258Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/deno-deploy.html</loc>
-        <lastmod>2022-10-01T19:02:37.187Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.367Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/gcf.html</loc>
-        <lastmod>2022-10-01T19:02:37.252Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.439Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/heroku.html</loc>
-        <lastmod>2022-10-01T19:02:37.331Z</lastmod>
+        <lastmod>2022-10-01T19:35:07.978Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/supabase.html</loc>
-        <lastmod>2022-10-01T19:02:37.386Z</lastmod>
+        <lastmod>2022-10-01T19:35:08.602Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/hosting/vps.html</loc>
-        <lastmod>2022-10-01T19:02:37.467Z</lastmod>
+        <lastmod>2022-10-01T19:35:08.916Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/auto-retry.html</loc>
-        <lastmod>2022-10-01T19:02:37.618Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.181Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/autoquote.html</loc>
-        <lastmod>2022-10-01T19:02:38.498Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.327Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/command-filter.html</loc>
-        <lastmod>2022-10-01T19:02:38.869Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.384Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/console-time.html</loc>
-        <lastmod>2022-10-01T19:02:39.002Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.465Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/conversations.html</loc>
-        <lastmod>2022-10-01T19:02:39.245Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.594Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/emoji.html</loc>
-        <lastmod>2022-10-01T19:02:39.313Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.666Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/files.html</loc>
-        <lastmod>2022-10-01T19:02:39.390Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.742Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/fluent.html</loc>
-        <lastmod>2022-10-01T19:02:39.465Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.828Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/guide.html</loc>
-        <lastmod>2022-10-01T19:02:39.518Z</lastmod>
+        <lastmod>2022-10-01T19:35:10.467Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/hydrate.html</loc>
-        <lastmod>2022-10-01T19:02:39.592Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.057Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/i18n.html</loc>
-        <lastmod>2022-10-01T19:02:39.691Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.284Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/index.html</loc>
-        <lastmod>2022-10-01T19:02:37.535Z</lastmod>
+        <lastmod>2022-10-01T19:35:09.051Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/keyboard.html</loc>
-        <lastmod>2022-10-01T19:02:40.075Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.425Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/menu.html</loc>
-        <lastmod>2022-10-01T19:02:40.920Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.560Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/middlewares.html</loc>
-        <lastmod>2022-10-01T19:02:41.068Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.628Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/parse-mode.html</loc>
-        <lastmod>2022-10-01T19:02:41.207Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.704Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/ratelimiter.html</loc>
-        <lastmod>2022-10-01T19:02:41.387Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.790Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/router.html</loc>
-        <lastmod>2022-10-01T19:02:41.500Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.894Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/runner.html</loc>
-        <lastmod>2022-10-01T19:02:41.581Z</lastmod>
+        <lastmod>2022-10-01T19:35:11.970Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/session.html</loc>
-        <lastmod>2022-10-01T19:02:41.683Z</lastmod>
+        <lastmod>2022-10-01T19:35:12.240Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/stateless-question.html</loc>
-        <lastmod>2022-10-01T19:02:41.752Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.006Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/plugins/transformer-throttler.html</loc>
-        <lastmod>2022-10-01T19:02:41.808Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.344Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/resources/about.html</loc>
-        <lastmod>2022-10-01T19:02:41.878Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.485Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/resources/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:42.250Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.628Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/es/resources/faq.html</loc>
-        <lastmod>2022-10-01T19:02:43.101Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.759Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/deployment.html</loc>
-        <lastmod>2022-10-01T19:02:43.423Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.900Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/flood.html</loc>
-        <lastmod>2022-10-01T19:02:43.615Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.982Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/index.html</loc>
-        <lastmod>2022-10-01T19:02:43.259Z</lastmod>
+        <lastmod>2022-10-01T19:35:13.819Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:43.682Z</lastmod>
+        <lastmod>2022-10-01T19:35:14.055Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/proxy.html</loc>
-        <lastmod>2022-10-01T19:02:43.744Z</lastmod>
+        <lastmod>2022-10-01T19:35:14.114Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/reliability.html</loc>
-        <lastmod>2022-10-01T19:02:43.832Z</lastmod>
+        <lastmod>2022-10-01T19:35:14.205Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/scaling.html</loc>
-        <lastmod>2022-10-01T19:02:43.918Z</lastmod>
+        <lastmod>2022-10-01T19:35:14.604Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/structuring.html</loc>
-        <lastmod>2022-10-01T19:02:43.996Z</lastmod>
+        <lastmod>2022-10-01T19:35:15.446Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/advanced/transformers.html</loc>
-        <lastmod>2022-10-01T19:02:44.074Z</lastmod>
+        <lastmod>2022-10-01T19:35:15.620Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/demo/examples.html</loc>
-        <lastmod>2022-10-01T19:02:44.612Z</lastmod>
+        <lastmod>2022-10-01T19:35:15.925Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/demo/index.html</loc>
-        <lastmod>2022-10-01T19:02:44.125Z</lastmod>
+        <lastmod>2022-10-01T19:35:15.762Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/api.html</loc>
-        <lastmod>2022-10-01T19:02:45.509Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.066Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/basics.html</loc>
-        <lastmod>2022-10-01T19:02:45.659Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.153Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/commands.html</loc>
-        <lastmod>2022-10-01T19:02:45.804Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.231Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/context.html</loc>
-        <lastmod>2022-10-01T19:02:45.894Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.329Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/deployment-types.html</loc>
-        <lastmod>2022-10-01T19:02:45.987Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.414Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/errors.html</loc>
-        <lastmod>2022-10-01T19:02:46.077Z</lastmod>
+        <lastmod>2022-10-01T19:35:16.501Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/files.html</loc>
-        <lastmod>2022-10-01T19:02:46.158Z</lastmod>
+        <lastmod>2022-10-01T19:35:17.314Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/filter-queries.html</loc>
-        <lastmod>2022-10-01T19:02:46.240Z</lastmod>
+        <lastmod>2022-10-01T19:35:17.761Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/games.html</loc>
-        <lastmod>2022-10-01T19:02:46.299Z</lastmod>
+        <lastmod>2022-10-01T19:35:17.916Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/getting-started.html</loc>
-        <lastmod>2022-10-01T19:02:46.801Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.076Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/index.html</loc>
-        <lastmod>2022-10-01T19:02:45.341Z</lastmod>
+        <lastmod>2022-10-01T19:35:15.995Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/inline-queries.html</loc>
-        <lastmod>2022-10-01T19:02:47.534Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.189Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/introduction.html</loc>
-        <lastmod>2022-10-01T19:02:47.701Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.257Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/guide/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:47.856Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.338Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:48.041Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.417Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/deno-deploy.html</loc>
-        <lastmod>2022-10-01T19:02:48.110Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.491Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/gcf.html</loc>
-        <lastmod>2022-10-01T19:02:48.178Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.545Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/heroku.html</loc>
-        <lastmod>2022-10-01T19:02:48.265Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.629Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/supabase.html</loc>
-        <lastmod>2022-10-01T19:02:48.325Z</lastmod>
+        <lastmod>2022-10-01T19:35:18.929Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/hosting/vps.html</loc>
-        <lastmod>2022-10-01T19:02:48.397Z</lastmod>
+        <lastmod>2022-10-01T19:35:19.790Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/auto-retry.html</loc>
-        <lastmod>2022-10-01T19:02:48.555Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.129Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/autoquote.html</loc>
-        <lastmod>2022-10-01T19:02:49.333Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.305Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/command-filter.html</loc>
-        <lastmod>2022-10-01T19:02:49.805Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.455Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/console-time.html</loc>
-        <lastmod>2022-10-01T19:02:49.957Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.533Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/conversations.html</loc>
-        <lastmod>2022-10-01T19:02:50.244Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.691Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/emoji.html</loc>
-        <lastmod>2022-10-01T19:02:50.316Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.772Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/files.html</loc>
-        <lastmod>2022-10-01T19:02:50.400Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.850Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/fluent.html</loc>
-        <lastmod>2022-10-01T19:02:50.484Z</lastmod>
+        <lastmod>2022-10-01T19:35:20.920Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/guide.html</loc>
-        <lastmod>2022-10-01T19:02:50.546Z</lastmod>
+        <lastmod>2022-10-01T19:35:21.024Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/hydrate.html</loc>
-        <lastmod>2022-10-01T19:02:50.628Z</lastmod>
+        <lastmod>2022-10-01T19:35:21.900Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/i18n.html</loc>
-        <lastmod>2022-10-01T19:02:50.930Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.368Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/index.html</loc>
-        <lastmod>2022-10-01T19:02:48.475Z</lastmod>
+        <lastmod>2022-10-01T19:35:19.965Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/keyboard.html</loc>
-        <lastmod>2022-10-01T19:02:51.906Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.531Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/menu.html</loc>
-        <lastmod>2022-10-01T19:02:52.107Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.701Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/middlewares.html</loc>
-        <lastmod>2022-10-01T19:02:52.257Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.771Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/parse-mode.html</loc>
-        <lastmod>2022-10-01T19:02:52.428Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.866Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/ratelimiter.html</loc>
-        <lastmod>2022-10-01T19:02:52.512Z</lastmod>
+        <lastmod>2022-10-01T19:35:22.960Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/router.html</loc>
-        <lastmod>2022-10-01T19:02:52.629Z</lastmod>
+        <lastmod>2022-10-01T19:35:23.066Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/runner.html</loc>
-        <lastmod>2022-10-01T19:02:52.721Z</lastmod>
+        <lastmod>2022-10-01T19:35:23.145Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/session.html</loc>
-        <lastmod>2022-10-01T19:02:52.826Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.294Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/stateless-question.html</loc>
-        <lastmod>2022-10-01T19:02:52.899Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.468Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/plugins/transformer-throttler.html</loc>
-        <lastmod>2022-10-01T19:02:53.739Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.624Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/resources/about.html</loc>
-        <lastmod>2022-10-01T19:02:54.177Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.789Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/resources/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:54.330Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.861Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/id/resources/faq.html</loc>
-        <lastmod>2022-10-01T19:02:54.487Z</lastmod>
+        <lastmod>2022-10-01T19:35:24.938Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/deployment.html</loc>
-        <lastmod>2022-10-01T19:02:54.674Z</lastmod>
+        <lastmod>2022-10-01T19:35:25.106Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/flood.html</loc>
-        <lastmod>2022-10-01T19:02:54.755Z</lastmod>
+        <lastmod>2022-10-01T19:35:25.194Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/index.html</loc>
-        <lastmod>2022-10-01T19:02:54.600Z</lastmod>
+        <lastmod>2022-10-01T19:35:25.020Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:54.840Z</lastmod>
+        <lastmod>2022-10-01T19:35:25.281Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/proxy.html</loc>
-        <lastmod>2022-10-01T19:02:54.914Z</lastmod>
+        <lastmod>2022-10-01T19:35:25.367Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/reliability.html</loc>
-        <lastmod>2022-10-01T19:02:55.008Z</lastmod>
+        <lastmod>2022-10-01T19:35:26.247Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/scaling.html</loc>
-        <lastmod>2022-10-01T19:02:55.880Z</lastmod>
+        <lastmod>2022-10-01T19:35:26.669Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/structuring.html</loc>
-        <lastmod>2022-10-01T19:02:56.296Z</lastmod>
+        <lastmod>2022-10-01T19:35:26.855Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/advanced/transformers.html</loc>
-        <lastmod>2022-10-01T19:02:56.484Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.024Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/demo/examples.html</loc>
-        <lastmod>2022-10-01T19:02:56.737Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.174Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/demo/index.html</loc>
-        <lastmod>2022-10-01T19:02:56.656Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.107Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/api.html</loc>
-        <lastmod>2022-10-01T19:02:56.888Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.343Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/basics.html</loc>
-        <lastmod>2022-10-01T19:02:56.981Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.425Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/commands.html</loc>
-        <lastmod>2022-10-01T19:02:57.059Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.492Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/context.html</loc>
-        <lastmod>2022-10-01T19:02:57.178Z</lastmod>
+        <lastmod>2022-10-01T19:35:28.235Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/deployment-types.html</loc>
-        <lastmod>2022-10-01T19:02:57.942Z</lastmod>
+        <lastmod>2022-10-01T19:35:28.795Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/errors.html</loc>
-        <lastmod>2022-10-01T19:02:58.488Z</lastmod>
+        <lastmod>2022-10-01T19:35:28.980Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/files.html</loc>
-        <lastmod>2022-10-01T19:02:58.684Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.171Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/filter-queries.html</loc>
-        <lastmod>2022-10-01T19:02:58.874Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.265Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/games.html</loc>
-        <lastmod>2022-10-01T19:02:58.950Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.336Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/getting-started.html</loc>
-        <lastmod>2022-10-01T19:02:59.036Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.421Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/index.html</loc>
-        <lastmod>2022-10-01T19:02:56.804Z</lastmod>
+        <lastmod>2022-10-01T19:35:27.254Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/inline-queries.html</loc>
-        <lastmod>2022-10-01T19:02:59.113Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.505Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/introduction.html</loc>
-        <lastmod>2022-10-01T19:02:59.179Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.585Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/guide/middleware.html</loc>
-        <lastmod>2022-10-01T19:02:59.261Z</lastmod>
+        <lastmod>2022-10-01T19:35:29.677Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/comparison.html</loc>
-        <lastmod>2022-10-01T19:02:59.618Z</lastmod>
+        <lastmod>2022-10-01T19:35:30.498Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/deno-deploy.html</loc>
-        <lastmod>2022-10-01T19:03:00.435Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.191Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/gcf.html</loc>
-        <lastmod>2022-10-01T19:03:00.624Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.273Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/heroku.html</loc>
-        <lastmod>2022-10-01T19:03:00.838Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.363Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/supabase.html</loc>
-        <lastmod>2022-10-01T19:03:01.008Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.455Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/hosting/vps.html</loc>
-        <lastmod>2022-10-01T19:03:01.163Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.526Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/auto-retry.html</loc>
-        <lastmod>2022-10-01T19:03:01.318Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.692Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/autoquote.html</loc>
-        <lastmod>2022-10-01T19:03:01.409Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.778Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/command-filter.html</loc>
-        <lastmod>2022-10-01T19:03:01.477Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.862Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/console-time.html</loc>
-        <lastmod>2022-10-01T19:03:01.553Z</lastmod>
+        <lastmod>2022-10-01T19:35:32.645Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/conversations.html</loc>
-        <lastmod>2022-10-01T19:03:02.261Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.263Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/emoji.html</loc>
-        <lastmod>2022-10-01T19:03:02.896Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.459Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/files.html</loc>
-        <lastmod>2022-10-01T19:03:03.099Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.563Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/fluent.html</loc>
-        <lastmod>2022-10-01T19:03:03.285Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.641Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/guide.html</loc>
-        <lastmod>2022-10-01T19:03:03.376Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.728Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/hydrate.html</loc>
-        <lastmod>2022-10-01T19:03:03.458Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.830Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/i18n.html</loc>
-        <lastmod>2022-10-01T19:03:03.595Z</lastmod>
+        <lastmod>2022-10-01T19:35:33.944Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/index.html</loc>
-        <lastmod>2022-10-01T19:03:01.237Z</lastmod>
+        <lastmod>2022-10-01T19:35:31.607Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/keyboard.html</loc>
-        <lastmod>2022-10-01T19:03:03.666Z</lastmod>
+        <lastmod>2022-10-01T19:35:34.042Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/menu.html</loc>
-        <lastmod>2022-10-01T19:03:03.756Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.068Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/middlewares.html</loc>
-        <lastmod>2022-10-01T19:03:04.267Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.309Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/parse-mode.html</loc>
-        <lastmod>2022-10-01T19:03:05.012Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.505Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/ratelimiter.html</loc>
-        <lastmod>2022-10-01T19:03:05.219Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.709Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/router.html</loc>
-        <lastmod>2022-10-01T19:03:05.455Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.870Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/runner.html</loc>
-        <lastmod>2022-10-01T19:03:05.546Z</lastmod>
+        <lastmod>2022-10-01T19:35:35.948Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/session.html</loc>
-        <lastmod>2022-10-01T19:03:05.653Z</lastmod>
+        <lastmod>2022-10-01T19:35:36.063Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/stateless-question.html</loc>
-        <lastmod>2022-10-01T19:03:05.719Z</lastmod>
+        <lastmod>2022-10-01T19:35:36.144Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/plugins/transformer-throttler.html</loc>
-        <lastmod>2022-10-01T19:03:05.801Z</lastmod>
+        <lastmod>2022-10-01T19:35:36.236Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/resources/about.html</loc>
-        <lastmod>2022-10-01T19:03:05.882Z</lastmod>
+        <lastmod>2022-10-01T19:35:36.328Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/resources/comparison.html</loc>
-        <lastmod>2022-10-01T19:03:06.014Z</lastmod>
+        <lastmod>2022-10-01T19:35:37.147Z</lastmod>
     </url>
     <url>
         <loc>https://grammy.dev/zh/resources/faq.html</loc>
-        <lastmod>2022-10-01T19:03:07.079Z</lastmod>
+        <lastmod>2022-10-01T19:35:37.626Z</lastmod>
     </url>
 </urlset>
